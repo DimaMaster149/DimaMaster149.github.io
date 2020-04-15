@@ -1,0 +1,1 @@
+.country-select{width:250px;height:auto}.chart-list{display:flex;flex-direction:row;justify-content:space-between;flex-wrap:wrap;padding:20px}.chart-list__item{position:relative;width:50%;height:50vh}@media(max-width:768px){.chart-list{padding:30px}.chart-list__item{position:relative;width:100%;height:50vh;margin-bottom:100px}}
